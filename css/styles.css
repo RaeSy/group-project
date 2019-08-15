@@ -5,22 +5,25 @@ body {
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
-  background-color: azure;
+  background-color: darkorchid;
 }
 h1{
-  color:turquoise;
+  color:cyan;
   font-family: sans-serif;
   font-weight: bold;
   font-style: italic;
 }
+h3{
+  color: darkturquoise;
+}
 p{
-  color: blue;
+  color: deepskyblue;
 }
 .row{
-  color: darkgreen;
+  color: lime;
 }
 .navbar{
-  background-color: lightseagreen;
+  background-color: indigo;
 }
 .nav-link{
   color: palegreen;
