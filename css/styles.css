@@ -18,6 +18,9 @@ h1{
   font-weight: bold;
   font-style: italic;
 }
+h2{
+  color: MediumSpringGreen;
+}
 h3{
   color: darkturquoise;
 }
@@ -35,8 +38,4 @@ p{
 }
 .navbar-brand{
   color: lightgreen;
-}
-
-.carousel-container {
-  margin: auto;
 }
