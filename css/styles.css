@@ -8,6 +8,10 @@ body {
   text-align: center;
   background-color: darkorchid;
 }
+h4{
+  font-size: 20
+  color: blue;
+}
 h1{
   color:cyan;
   font-family: sans-serif;
@@ -18,10 +22,10 @@ h3{
   color: darkturquoise;
 }
 p{
-  color: deepskyblue;
+  color: MediumAquamarine	;
 }
 .row{
-  color: lime;
+  color: MediumSpringGreen;
 }
 .navbar{
   background-color: indigo;
