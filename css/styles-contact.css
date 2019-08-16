@@ -29,9 +29,6 @@ p{
 .nav-link{
   color: MediumSpringGreen;
 }
-.navbar-brand{
-  color: lightgreen;
-}
 .logo{
   width: 60px;
   border-radius: 8px;
@@ -41,4 +38,8 @@ p{
 }
 .container{
  padding-left: 0.125rem
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(255, 255, 255, 0.5)");
 }
