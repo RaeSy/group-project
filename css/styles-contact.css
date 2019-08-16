@@ -1,7 +1,7 @@
 body {
   padding-top: 5rem;
   background-color: whitesmoke;
-  background-image: url("../images/wall.jpg");
+  background-image: url("../images/Background.png");
   background-color: #cccccc; /* Used if the image is unavailable */
   height: 500px; /* You must set a specified height */ */
   background-position: center; /* Center the image */
