@@ -29,8 +29,8 @@ p{
 .nav-link{
   color: MediumSpringGreen;
 }
-.navbar-brand{
-  color: lightgreen;
+.navbar-brand {
+  color: lightgreen!important;
 }
 .logo{
   width: 60px;
