@@ -1,20 +1,21 @@
 body {
   padding-top: 5rem;
-  background-color: honeydew;
+  background-color: whitesmoke;
 }
 
 h1{
-  color:maroon;
+  color: steelblue;
   font-family: monospace;
   font-weight: bold;
   font-style: italic;
   text-align: center;
+  font-size: 5em
 }
 h2{
-  color: navy;
+  color: dodgerblue;
 }
 p{
-  color: palevioletred;
+  color: blueviolet;
 }
 .navbar{
   background-color: navy;
