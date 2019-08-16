@@ -48,3 +48,7 @@ p{
 .pod{
   width: 600px
 }
+
+#about {
+  text-align: center;
+}
