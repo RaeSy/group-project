@@ -1,0 +1,44 @@
+body {
+  padding-top: 5rem;
+  background-color: whitesmoke;
+  background-image: url("../images/wall.jpg");
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */ */
+  background-position: center; /* Center the image */
+  background-repeat: repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+h1{
+  color: whitesmoke;
+  font-family: monospace;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  font-size: 5em
+}
+h2{
+  color: MediumBlue;
+}
+p{
+  color: black;
+}
+.navbar{
+  background-color: navy;
+}
+.nav-link{
+  color: MediumSpringGreen;
+}
+.navbar-brand{
+  color: lightgreen;
+}
+.logo{
+  width: 60px;
+  border-radius: 8px;
+}
+.bird{
+  width: 50px;
+}
+.container{
+ padding-left: 0.125rem
+}
