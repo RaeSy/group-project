@@ -1,10 +1,16 @@
 body {
   padding-top: 5rem;
   background-color: whitesmoke;
+  background-image: url("../images/wall.jpg");
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */ */
+  background-position: center; /* Center the image */
+  background-repeat: repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
 }
 
 h1{
-  color: steelblue;
+  color: whitesmoke;
   font-family: monospace;
   font-weight: bold;
   font-style: italic;
@@ -12,10 +18,10 @@ h1{
   font-size: 5em
 }
 h2{
-  color: dodgerblue;
+  color: MediumBlue;
 }
 p{
-  color: blueviolet;
+  color: black;
 }
 .navbar{
   background-color: navy;
